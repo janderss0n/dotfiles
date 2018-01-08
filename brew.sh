@@ -30,6 +30,7 @@ brew install homebrew/dupes/openssh
 brew install homebrew/dupes/screen
 
 # Install other useful binaries.
+brew install npm
 brew install git
 brew install docker
 brew cask install virtualbox
